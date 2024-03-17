@@ -46,5 +46,3 @@ The Agent Installer is a Swift utility script designed to automate the installat
 ## License
 - This project is licensed under the [MIT License](LICENSE).
 
----
-Feel free to modify the placeholders (such as `yourusername`) with the appropriate information for your project. Let me know if you need further assistance!
